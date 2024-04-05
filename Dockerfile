@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.11.8-alpine
 MAINTAINER Omidiora Samuel <samparsky@gmail.com>
 ENV PROJECT_DIR=bitcoin-etl
 
